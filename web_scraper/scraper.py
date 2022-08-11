@@ -2,7 +2,6 @@ import requests
 
 from bs4 import BeautifulSoup
 
-# url = 'https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy'
 url = 'https://en.wikipedia.org/wiki/History_of_Bali'
 
 
